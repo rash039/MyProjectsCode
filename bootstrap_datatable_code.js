@@ -1,18 +1,18 @@
-		<table id="myTestcaseTable" class="table table-striped table-bordered">
-			<thead>
-				<tr>
-                  <th>Sr. No.#.</th>
-                  <th>TC No.</th>
-                  <th>TC Name</th>
-                  <th>TC Description</th>
-                  <th>Placement Trades</th>
-                  <th>RT File Trades</th>
-                  <th>T7 DB Trade</th>
-                  <th>TC Status</th>
-                  <th>Remarks</th>
-				</tr>
-			</thead>
-		</table>
+<table id="myTestcaseTable" class="table table-striped table-bordered">
+	<thead>
+		<tr>
+  <th>Sr. No.#.</th>
+  <th>TC No.</th>
+  <th>TC Name</th>
+  <th>TC Description</th>
+  <th>Placement Trades</th>
+  <th>RT File Trades</th>
+  <th>T7 DB Trade</th>
+  <th>TC Status</th>
+  <th>Remarks</th>
+		</tr>
+	</thead>
+</table>
 
 
 
